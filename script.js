@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
         name.textContent = mealName;
 
         const country = document.createElement("p");
-        country.textContent = `Pays : ${mealCountry}`;
+        country.textContent = `Pays: ${mealCountry}`;
 
         const youtubeLink = document.querySelector(".link");
         youtubeLink.textContent = "Lien YouTube";

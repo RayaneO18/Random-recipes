@@ -49,6 +49,16 @@ body{
 img{
     border: solid;
 }
+h2{
+border: solid 1px;
+background-color: brown;
+}
+p{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
 .result-container {
     display: flex;
     flex-direction: column;
